@@ -1,31 +1,29 @@
 # ─── Jhemilly Crecêncio ───
 
 <p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
+  <img src="https://demolab.com" alt="Code is a maze, and I'm here to build the path." />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="YOUR_NOTION_URL"><img src="https://shields.io" alt="Portfolio" /></a>
+  <img src="https://shields.io" alt="LinkedIn" />
+  <img src="https://shields.io" alt="Portfolio" />
 </p>
 
 ---
 
-### Professional Profile
-B.S. student in Computer Science dedicated to Backend Development. Currently focusing on mastering advanced logic, data structures, and algorithms to build scalable and secure enterprise software architectures.
+### Perfil profissional
+Estudante de Ciência da Computação com foco em Desenvolvimento Backend. Atualmente, meu objetivo é dominar lógica avançada, estruturas de dados e algoritmos para construir arquiteturas de software corporativas escaláveis e seguras.
 
-### Technical Focus & Frameworks
-* **Language & Ecosystem:** Backend engineering with Java and the Spring Boot framework.
-* **Data Management:** Relational database modeling and SQL integration (MySQL/PostgreSQL).
-* **Workflows:** Version control workflows and professional documentation with Git.
-* **Global Ready:** Continuous advancement of English language proficiency for global collaboration.
+### Foco técnico e estruturas
+* **Linguagem e Ecossistema:** Engenharia de backend com Java e o framework Spring Boot.
+* **Gestão de dados:** Modelagem de banco de dados relacional e integração SQL (MySQL/PostgreSQL).
+* **Fluxos de trabalho:** Fluxos de trabalho de controle de versão e documentação profissional com Git.
+* **Global Ready:** Aprimoramento contínuo da proficiência em inglês para colaboração global.
 
-### Academic Core Objectives
-* Understanding object-oriented software engineering principles.
-* Designing clean, maintainable, and highly efficient backend systems.
-* Applying analytical and mathematical methods to software performance.
+### Objetivos Acadêmicos Essenciais
+* Compreender os princípios da engenharia de software orientada a objetos.
+* Projetar sistemas de backend limpos, fáceis de manter e altamente eficientes.
+* Aplicar métodos analíticos e matemáticos ao desempenho de software.
 
 ---
 
