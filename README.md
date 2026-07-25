@@ -20,6 +20,7 @@
   Student in Computer Science and an aspiring Backend Engineer dedicated to mastering Java software systems. I believe that exceptional backend engineering requires the perfect balance between enterprise robustness and the absolute elegance of a well-crafted loop. This GitHub serves as my technical log, where I bind secure logic and structured data into custom software solutions.
   <br><br>
 
+ 
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
   <img src="https://i.postimg.cc/MKLzFDHH/936625c3-0ab0-4053-9a89-f5fb168bff82-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
