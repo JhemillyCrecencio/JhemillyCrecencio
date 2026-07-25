@@ -10,7 +10,6 @@
 
 <div align="center">
   <h2>Know About Me</h2>
-
 </div>
 
 <img src="https://i.postimg.cc/dt29WW4h/e54807d4-beb9-462c-9d41-17de203973c5-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
